@@ -1,0 +1,7 @@
+strict digraph
+{
+    end [label="successfully complete task and end game"]
+    root [label="Doing menial task"]
+
+    root -> end
+}
